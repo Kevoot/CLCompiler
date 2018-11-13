@@ -1,6 +1,6 @@
 # CLCompiler
 
-Try the [Demo](https://kevoot.github.io/GUI_Course/pda/index.html);
+Try the [Demo](https://kevoot.github.io/GUI_Course/pda/index.html)
 
 ## What am I even looking at?
 A compiler (not really, a transpiler) from a long-dead calculator language to javascript. 
